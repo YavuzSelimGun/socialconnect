@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.env.*
+backend/users/*.py
+backend/activity/*.py
+backend/location/*.py
+backend/core/*.py
+backend/socialconnect/*.py
